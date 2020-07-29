@@ -1,6 +1,6 @@
 # Build-My-World
 
-Project 1 of Udacity Robotics Software Engineering Program 
+Project 1 of Udacity Robotics Software Engineering Nanodegree Program 
 
 ## Overview of the project
 
